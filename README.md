@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajidsolo
-- 👀 I’m interested in minecraft, video games, and LUA.
-- 📫 How to reach me: sajidsolos on discord
+- 👀 I’m interested in video games, JS and LUA Coding.
+- 📫 Socials: https://linktr.ee/sajidsolos
 
 <!---
 sajidsolo/sajidsolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
